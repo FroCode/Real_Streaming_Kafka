@@ -36,7 +36,7 @@ The project is designed with the following components:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/airscholar/E2EDataEngineering.git
+    git clone https://github.com/FroCode/Real_Streaming_Kafka.git
     ```
 
 2. Navigate to the project directory:
